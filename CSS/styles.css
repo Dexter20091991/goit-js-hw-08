@@ -10,7 +10,11 @@ ul {
   gap: 24px;
   padding: 24px 156px;
   justify-content: center;
+  list-style-type: none;
+}
 
+.gallery-item {
+  margin: 5px;
 }
 
 .gallery-image {
